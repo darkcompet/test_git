@@ -1,4 +1,1 @@
-change
-local 1
-local 2
-local 3
+changed by remote
